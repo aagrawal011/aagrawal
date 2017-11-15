@@ -1,0 +1,28 @@
+body {
+    background-color:#FF7433;
+}
+#mainParagraph {
+    font-family: Lucida Console;
+    color:#3390FF;
+}
+.mainClass {
+    color: #FFFFFF;
+}
+div {
+    background-color: white;
+    font-style: italic;
+}
+#footer {
+    border-bottom-width: 6px;
+    border-bottom-style: dotted;
+    text-align: right;
+    text-transform: uppercase;
+    font-size: 80%;
+    color: red;
+}
+img {
+    width: 50%;
+    position: absolute;
+    margin-left: 50%;
+    margin-top:100px;
+}
