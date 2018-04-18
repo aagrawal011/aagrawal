@@ -1,0 +1,9 @@
+h1{
+    font-family: "Orbitron";
+}
+html{
+    background-image: url("https://i.pinimg.com/originals/19/98/87/1998879c7b6f1689ae74f6783e38dd39.gif");
+    /*makes a gif the background*/
+    background-size: cover;
+    background-repeat: no-repeat;
+}
